@@ -18,5 +18,5 @@ The String Calculator accepts a string of comma-separated numbers and returns th
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/String-Calculator-TDD.git
+git clone [https://github.com/chetan95-pro/String-Calculator-TDD.git]
 cd String-Calculator-TDD
