@@ -1,4 +1,4 @@
-const StringCalculator = require("./StringCalculator"); // Import using CommonJS
+const StringCalculator = require("./StringCalculator");
 const calculator = new StringCalculator();
 
 describe("StringCalculator", () => {
